@@ -62,3 +62,5 @@ Courses | School | Duration | Effort | Frequency
 - 🏃 I like running and keeping active  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 
 📫 Feel free to connect and explore my repos!
+
+![snake gif](https://github.com/erycaaaaa/erycaaaaa/blob/output/github-contribution-grid-snake.svg)
