@@ -63,4 +63,7 @@ Courses | School | Duration | Effort | Frequency
 
 📫 Feel free to connect and explore my repos!
 
+![GitHub Snake Light](https://raw.githubusercontent.com/erycaaaaa/erycaaaaa/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/erycaaaaa/erycaaaaa/output/github-snake-dark.svg#gh-dark-mode-only)
+
 ![snake gif](https://github.com/erycaaaaa/erycaaaaa/blob/output/github-contribution-grid-snake.svg)
