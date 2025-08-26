@@ -1,33 +1,28 @@
-name: Generate Snake
+</p>
 
-on:
-  schedule:
-    # jalan setiap jam 07:00 WIB
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+<table align="center">
 
-permissions:
-  contents: write
+  <tr align="center">
+    <th>🎨 UI/UX Design</th>
+    <th>💻 Frontend</th>
+    <th>📊 Data Analysis</th>
+  </tr>
+  <tr align="center">
+    <td>Figma</td>
+    <td>HTML, CSS</td>
+    <td>Python, Google Colab</td>
+  </tr>
+</table>
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
+### 💬 Fun Facts About Me
 
-      # Generate SVG + GIF
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: erycaaaaa   # username kamu
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/github-snake.gif
+- 🎨 I love painting and do commission work on Instagram: [@erycadhm](https://instagram.com/erycadhm) ███████████████████████▒░   00.00 %
+- 📚 I enjoy reading and watching K-dramas █░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+- 🏃 I like running and keeping active  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 
-      # Deploy hasil ke branch "output"
-      - name: Deploy to output branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
+📫 Feel free to connect and explore my repos!
+
+<img src="https://raw.githubusercontent.com/erycaaaaa/erycaaaaa/output/github-snake-dark.svg" alt="snake dark" />
+<img src="https://raw.githubusercontent.com/erycaaaaa/erycaaaaa/output/ocean.gif" alt="snake gif" />
+
+<img src="https://raw.githubusercontent.com/erycaaaaa/erycaaaaa/output/github-snake.svg" alt="snake" />
