@@ -57,3 +57,6 @@ Courses | School | Duration | Effort | Frequency
 📫 Feel free to connect and explore my repos!
 
 <img src="https://raw.githubusercontent.com/erycaaaaa/erycaaaaa/output/github-snake-dark.svg" alt="snake dark" />
+
+
+<img src="./assets/isometric.jpg" alt="isometric-contributed-2025" />
