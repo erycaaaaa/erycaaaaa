@@ -23,7 +23,7 @@
      <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=figma,ai,html" /> <br />
       <img src="https://skillicons.dev/icons?i=python,dart,flutter" /> <br />
-      <img src="https://skillicons.dev/icons?i=css,js" /> <br />
+      <img src="https://skillicons.dev/icons?i=css,js,notion" /> <br />
     </a>
   </tr>
 </table>
